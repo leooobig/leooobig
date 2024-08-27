@@ -15,9 +15,9 @@
 </p>
 
 <div align="center">  
-<a href="https://www.instagram.com/lucaolevingston/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://lucas-levingston.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?&style=for-the-badge&logo=About.me&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/lucas-levingston-44b851231/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.instagram.com/leooobig/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-000000?&style=for-the-badge&logo=About.me&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/leonardo-lima-7b66182b3//" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?&style=for-the-badge&logo=linkedin&logoColor=white"</a>
 <a href="https://wa.me/message/BL2FCNM72L7GJ1" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?&style=for-the-badge&logo=whatsapp&logoColor=white"</a>
 </div> 
  
